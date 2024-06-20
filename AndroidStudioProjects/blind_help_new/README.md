@@ -1,16 +1,5 @@
-# blind_help_new
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 설정 방법
+## 1. 안드로이드 스튜디오 설치와 flutter 환경 설정
+## 2. flutter 프로젝트 생성
+## 3. "최종 앱 코드.zip" 의 압축을 풀고 프로젝트 폴더에 압축을 푼 폴더인 android, lib, assets과 종속성을 가지고 있는 pubspec.yaml 파일을 덮어쓰기를 합니다.
+## 4. 프로젝트를 실행합니다.
